@@ -1,0 +1,5 @@
+C:\Users\romul\Documents\DioBase\obj\Debug\net5.0\DioBase.csproj.AssemblyReference.cache
+C:\Users\romul\Documents\DioBase\obj\Debug\net5.0\DioBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Documents\DioBase\obj\Debug\net5.0\DioBase.AssemblyInfoInputs.cache
+C:\Users\romul\Documents\DioBase\obj\Debug\net5.0\DioBase.AssemblyInfo.cs
+C:\Users\romul\Documents\DioBase\obj\Debug\net5.0\DioBase.csproj.CoreCompileInputs.cache
